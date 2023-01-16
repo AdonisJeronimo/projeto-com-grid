@@ -231,3 +231,23 @@ body {
     grid-area: footer;
     background-color: darkslategray;
 }
+
+@media(max-width: 760px){
+    .projects {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+}
+
+@media(max-width: 480px){
+    .projects {
+        grid-template-columns: 1fr;
+        grid-template-rows: 4fr;
+    }
+}
+@media(max-width: 420px){
+    .projects img{
+        height: 60vh;
+        margin: 0;
+    }
+}
