@@ -31,6 +31,6 @@ A princípio, foi um pouco trabalhoso entender de fato como o display grid funci
 Por fim, utilizei outras habilidades adquiridas ao longo dos estudos que me fizeram chegar ao resultado final esperado.
 
 <div style="display: inline_block"> <br>
-  <img height= 500 width=100% src="./src/images/gif-projeto.gif">
+  <img height= 470 width=100% src="./src/images/gif-projeto.gif">
 </div>
 
